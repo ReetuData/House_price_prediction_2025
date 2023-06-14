@@ -1,4 +1,4 @@
-# <div align="center"> <b> House Price Predcition for single Family house in California in 2025   </div>
+# <div align="center"> <b> Prediction of single-family house prices in California for 2025   </div>
 
 ## Problem Statements
 ___________________________________________________________________________________
